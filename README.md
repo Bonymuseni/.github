@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-I'm a passionate CBO leader and developer from Kericho, Rift Valley. I founded **EducationCHV Organisation** to bridge the gap in healthcare by training, equipping and supporting CHVs.
+I'm a passionate CBO leader and developer from Shinyalu, Kakamega. I founded **EducationCHV Organisation** to bridge the gap in healthcare by training, equipping and supporting CHVs.
 
 - 🔭 Currently working on: **EducationCHV Website & Digital Learning Platform for CHVs**
 - 🌱 Learning: **JavaScript, Health Informatics & Community Development**
