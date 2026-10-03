@@ -1,6 +1,6 @@
 # Hi, I'm Bony Museni 👋
 
-### Founder @ EducationCHV | Community Health Advocate | Web Developer | Kericho, Kenya 🇰🇪
+### Founder @ EducationCHV | Community Health Advocate | Web Developer | Kakamega, Kenya 🇰🇪
 
 > Empowering Community Health Volunteers through education, technology and grassroots action.
 
